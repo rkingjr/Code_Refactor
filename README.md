@@ -14,9 +14,14 @@ Also, class names were cleaned up as a few had the same effect on elements of th
 
 Lastly, I checked for functionality. I found theat the "Search Engine Optimization" button in the navbar was nonresponsive. This was solved by inserting the missing class into the section it was meant to link with.
 
-## 
+## Screenshot
 
-* Repository contains quality README file with description, screenshot, and link to deployed application.
+Screen Shot 2021-12-17 at 8.01.14 PM (2)
+
+## Deployed Application
+
+https://rkingjr.github.io/Homework_1/
+
 
 ## Licesne and copyright
 
