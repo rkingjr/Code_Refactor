@@ -16,12 +16,11 @@ Lastly, I checked for functionality. I found theat the "Search Engine Optimizati
 
 ## Screenshot
 
-Screen Shot 2021-12-17 at 8.01.14 PM (2)
+file:///Users/timothyking/Desktop/UT_Coding_Boot_Camp/Homework/Homework_1/Screen%20Shot%202021-12-17%20at%208.01.14%20PM%20(2).png
 
 ## Deployed Application
 
 https://rkingjr.github.io/Homework_1/
-
 
 ## Licesne and copyright
 
