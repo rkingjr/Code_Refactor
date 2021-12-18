@@ -16,7 +16,8 @@ Lastly, I checked for functionality. I found theat the "Search Engine Optimizati
 
 ## Screenshot
 
-![Screenshot](/Users/timothyking/Desktop/UT_Coding_Boot_Camp/Homework/Homework_1/Screen Shot 2021-12-17 at 8.01.14 PM (2).png)
+![Screenshot](/Users/timothyking/Desktop/UT_Coding_Boot_Camp/Homework/Homework_1/Screen Shot 2021-12-17 at 8.01.14 PM (2).pngpwd
+)
 
 ## Deployed Application
 
